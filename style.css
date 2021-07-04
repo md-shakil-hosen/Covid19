@@ -1,0 +1,50 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+h1{
+    color: white;
+}
+p{
+    padding-bottom: 100px;
+}
+.covid-test{
+    display: flex;
+    background-image: url(img/bg.jpg);
+    height: 663px;
+    background-size: cover;
+}
+.write-covid{
+    height: 500px;
+    width: 1000px;
+    background-image: url(img/bg.jpg);
+    margin: 50px;
+    margin-left:195px;
+    padding: 30px;
+    box-shadow: 0 0 10px 5px #000968; 
+    text-align: justify;
+    border-radius: 20px;
+}
+.content{
+    color: white;
+    font-weight: 700px;
+    height: 275px;
+    width: 530px;
+}
+.button{
+    color: white;
+    font-weight: 700px;
+    text-decoration: none;
+    border: 3px solid #fc394a;
+    padding: 8px 30px;
+    background-color: #fc394a;
+    border-radius: 100px;
+}
+.button-n{
+    color: white;
+    font-weight: 700px;
+    text-decoration: none;
+    border: 2px solid white;
+    padding: 8px 30px;
+    border-radius: 100px;
+}
